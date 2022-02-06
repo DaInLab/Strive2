@@ -4,4 +4,4 @@ Repositório criado para o envio de resolução de exercícios pelos alunos de I
 
 # TODO
 Build frequency tables for 2, 4, 8 and 9;
-Finish 3, 8 and 9 as a whole;
+Finish 3, 8 and 9 as a whole.
