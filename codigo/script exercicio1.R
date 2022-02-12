@@ -35,3 +35,6 @@ print(paste("Terceiro quartil = ", exercicio1_Q3))
 
 ##Obtendo o grafico
 boxplot(exercicio1, col = "yellow", horizontal = TRUE, xlab = "Porcentagem", ylab = "Juros")
+abline(v = exercicio1_media, col = "blue")
+abline(v = exercicio1_mediana, col = "purple")
+legend(2.5, 1.5, legend = c("Media", "Mediana"), col = c("blue", "purple"), lty = 1:1)
